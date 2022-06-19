@@ -1,1 +1,15 @@
+.container {
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 2em;
+    margin-left: 25%;
+   margin-right: 25%;
+   background-color: pink;
+}
 
+.steps {
+   margin-left: 25%;
+   margin-right: 25%;
+   background-color: pink;
+}
